@@ -8,6 +8,7 @@
 > #### [*Ionizing Radiation and Glioblastoma Exosomes*](http://www.sciencedirect.com/science/article/pii/S1936523313800034)
 > ##### Human Chemokine and Cytokines Antibody Arrays
 > Human chemokine or human cytokine V arrays (Ray Biotech, Inc) were used following the manufacturer's instructions. After developing, films were scanned and the images processed and quantified using ImageJ software (National Institutes of Health). **Intensity was normalized to internal positive controls for comparison**.
+
 > #### [*Chemokine Signaling via the CXCR2 Receptor Reinforces Senescence*](http://www.sciencedirect.com/science/article/pii/S0092867408006193)
 > ##### Antibody Array Analysis
 > Pelleted exosomes were lysed as above. Glass protein arrays (human angiogenesis antibody array AAH-ANG-G1 and cytokine antibody array G series AAH-CYT-G6/7/8; RayBiotech, Norcross, GA) were used to detect protein levels in exosome samples. Assays were carried out according to the manufacturer’s recommendations (15 μg of exosome lysate per subarray). **Array values were standardized against the positive control within each subarray**. Samples were run as biologic replicates, and a 1.33-fold change or greater was used as a cutoff to explore significant targets (increased or decreased abundance), comparing radiation-derived exosomes to those derived from nonirradiated cells.
