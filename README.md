@@ -5,6 +5,7 @@
 ## 瑞博奥抗体芯片
 ### 归一化方法
 从瑞博奥公司官网的技术资料页面下载的文献都使用了采用内参点的方法进行归一化的，可能和他们的抗体芯片的点比较少有关,两篇文献如下
+
 > #### [*Ionizing Radiation and Glioblastoma Exosomes*](http://www.sciencedirect.com/science/article/pii/S1936523313800034)
 > ##### Human Chemokine and Cytokines Antibody Arrays
 > Human chemokine or human cytokine V arrays (Ray Biotech, Inc) were used following the manufacturer's instructions. After developing, films were scanned and the images processed and quantified using ImageJ software (National Institutes of Health). **Intensity was normalized to internal positive controls for comparison**.
@@ -15,6 +16,7 @@
 
 ### 瑞博奥芯片特点
 从瑞博奥芯片[**官方手册**](https://www.raybiotech.com/files/manual/Antibody-Array/QAH-CAA-X00.pdf)可知，他们的芯片有如下特点
+
 1. 归一化，采用 两个`internal positive controls`点，及标准曲线(`standard curve`)可以获得样品的实际浓度。
 2. 所有抗体点都是4个重复
 3. 抗体芯片的点少，最多就1000个抗体。
